@@ -10,5 +10,6 @@ public class DataTypes {
         // long
         // double
         //Short n = 240;
+        System.out.println("Hi");
     }
 }
